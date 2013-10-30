@@ -1,0 +1,5 @@
+*.ai
+*.glyphs
+*.svg
+webfont/*
+.DS_Store
